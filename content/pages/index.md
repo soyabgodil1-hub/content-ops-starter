@@ -36,7 +36,7 @@ sections:
         type: Button
       - label: See Tutorials
         altText: ''
-        url: /
+        url: 'https://wa.me/919353355358'
         showIcon: true
         icon: arrowRight
         iconPosition: right

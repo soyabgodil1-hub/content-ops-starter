@@ -25,7 +25,7 @@ sections:
 
 
     actions:
-      - label: Get started
+      - label: CLICK HERE FOR INQUIRE
         altText: ''
         url: 'https://forms.gle/fhB9YfrNXhp8B6LD8'
         showIcon: false

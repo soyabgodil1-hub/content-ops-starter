@@ -103,7 +103,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 50+
-        subtitle: The Job Stuff
+        subtitle: Doctors’ Accounts Managed
         text: |+
 
           Doctors’ Accounts Managed

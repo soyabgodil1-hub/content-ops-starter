@@ -8,10 +8,22 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: What we Do ?
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      At **FAM Agency**, we help doctors and healthcare professionals build a
+      strong online presence. In today’s digital world, patients look for trust,
+      care, and credibility online before visiting a clinic — and that’s where
+      we step in.
+
+
+      We specialize in **digital marketing for doctors, clinics, and healthcare
+      brands** by managing their accounts, boosting visibility, and connecting
+      them with the right audience. From professional social media management
+      and online branding to clinic promotions and reputation building, we make
+      sure your practice grows digitally while you focus on what matters most —
+      caring for your patients.
+
+
+
     actions:
       - label: Get started
         altText: ''

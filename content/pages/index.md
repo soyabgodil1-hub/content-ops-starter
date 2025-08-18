@@ -71,7 +71,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Impact in Digital Healthcare
     items:
       - type: FeaturedItem
         title: 500k

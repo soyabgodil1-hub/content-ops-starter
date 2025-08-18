@@ -74,7 +74,7 @@ sections:
     subtitle: Impact in Digital Healthcare
     items:
       - type: FeaturedItem
-        title: 500k
+        title: 12+
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem

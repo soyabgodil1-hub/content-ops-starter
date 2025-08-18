@@ -76,10 +76,10 @@ sections:
       - type: FeaturedItem
         title: 12+
         subtitle: Clinics Helped
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We help clinics and doctors boost their online presence through smart
+          digital marketing strategies. From social media to website management,
+          we make sure your practice reaches the right audience.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark

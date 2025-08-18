@@ -34,7 +34,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: WHATSAPP CONNECT
         altText: ''
         url: 'https://wa.me/919353355358'
         showIcon: true

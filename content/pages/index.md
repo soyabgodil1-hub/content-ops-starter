@@ -75,7 +75,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 12+
-        subtitle: Numbers Done
+        subtitle: Clinics Helped
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.

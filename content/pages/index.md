@@ -161,7 +161,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: 'Team of 10 '
+      label: ''
       color: text-primary
       styles:
         self:

@@ -4,27 +4,39 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: FAM Agency – Creative Digital Solutions
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    subtitle: What we Do ?
+    text: >+
+      At **FAM Agency**, we help doctors and healthcare professionals build a
+      strong online presence. In today’s digital world, patients look for trust,
+      care, and credibility online before visiting a clinic — and that’s where
+      we step in.
+
+
+      We specialize in **digital marketing for doctors, clinics, and healthcare
+      brands** by managing their accounts, boosting visibility, and connecting
+      them with the right audience. From professional social media management
+      and online branding to clinic promotions and reputation building, we make
+      sure your practice grows digitally while you focus on what matters most —
+      caring for your patients.
+
+
+
     actions:
-      - label: Get started
+      - label: CLICK HERE FOR INQUIRE
         altText: ''
-        url: /
+        url: 'https://forms.gle/fhB9YfrNXhp8B6LD8'
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: WHATSAPP CONNECT
         altText: ''
-        url: /
+        url: 'https://wa.me/919353355358'
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -32,12 +44,12 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/LOGO FAM.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: 'FAM = FAMILY '
       color: text-primary
       type: Badge
     elementId: ''
@@ -53,21 +65,21 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: ''
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Impact in Digital Healthcare
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: 12+
+        subtitle: Clinics Helped
+        text: >
+          We help clinics and doctors boost their online presence through smart
+          digital marketing strategies. From social media to website management,
+          we make sure your practice reaches the right audience.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -90,12 +102,12 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: 50+
+        subtitle: Doctors’ Accounts Managed
+        text: |+
+
+          Doctors’ Accounts Managed
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -149,7 +161,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       styles:
         self:
@@ -435,7 +447,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "Design is a plan for arranging elements in such a way as best to
+          accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
@@ -464,7 +477,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -523,7 +537,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
@@ -552,7 +567,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
@@ -646,8 +662,9 @@ sections:
       - title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+        text: >
+          Learn from the tutorial and build your first awesome Netlify Create
+          site.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image

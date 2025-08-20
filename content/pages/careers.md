@@ -10,12 +10,24 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Section subtitle
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    text: >+
+      At **FAM Agency**, we believe in growing together — like a family. We are
+      a creative digital agency helping businesses, doctors, and clinics build
+      their online presence. Our mission is to deliver impactful digital
+      solutions while creating a supportive and inspiring workplace for our
+      team.
+
+
+      We’re always looking for passionate, curious, and talented people who want
+      to make a difference in the digital world. Whether you’re a designer,
+      marketer, developer, or strategist, there’s a place for you in our fam.
+
+
+      When you join us, you don’t just get a job — you become part of a team
+      that values creativity, collaboration, and continuous learning.
+
+
+
     actions:
       - label: See open positions
         url: /
